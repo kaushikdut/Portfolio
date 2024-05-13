@@ -38,11 +38,10 @@ const Navbar = () => {
         </div>
         <div className="flex flex-row items-center justify-center gap-x-5">
           {Socials.map((social) => (
-            <motion.div whileHover={{ scale: 1.2 }}>
+            <motion.div whileHover={{ scale: 1.2 }} key={social.name}>
               <Image
                 src={social.src}
                 alt={social.name}
-                key={social.name}
                 width={24}
                 height={24}
               />
