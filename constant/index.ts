@@ -251,7 +251,7 @@ export const Other_skill = [
 export const Project = [
   {
     id: 1,
-    src: "/cardImage.png",
+    src: "/CardImage.png",
     width: 1000,
     height: 1000,
   },
@@ -263,7 +263,7 @@ export const Project = [
   },
   {
     id: 3,
-    src: "/cardImage.png",
+    src: "/CardImage.png",
     width: 1000,
     height: 1000,
   },
