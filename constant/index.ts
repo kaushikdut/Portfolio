@@ -251,27 +251,23 @@ export const Other_skill = [
 export const Project = [
   {
     id: 1,
-    src: "/CardImage.png",
-    width: 1000,
-    height: 1000,
+    src: "/portfolio-2.png",
+    width: 700,
+    height: 700,
+    url: "https://notion-clone-git-main-kaushikduts-projects.vercel.app/",
   },
   {
     id: 2,
-    src: "/profiol3.png",
-    width: 1000,
-    height: 1000,
+    src: "/portfolio-3.png",
+    width: 700,
+    height: 700,
+    url: "https://movies-site-git-main-kaushikduts-projects.vercel.app/",
   },
   {
     id: 3,
-    src: "/CardImage.png",
-    width: 1000,
-    height: 1000,
-  },
-
-  {
-    id: 4,
-    src: "/profiol3.png",
-    width: 1000,
-    height: 1000,
+    src: "/portfolio-1.png",
+    width: 700,
+    height: 700,
+    url: "#about-me",
   },
 ];

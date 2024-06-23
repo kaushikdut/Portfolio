@@ -49,6 +49,7 @@ const Projects = () => {
                 src={data.src}
                 width={data.width}
                 height={data.height}
+                url={data.url}
               />
             </Reorder.Item>
           ))}
